@@ -1,2 +1,3 @@
 # Exercise1
 the pandas code 
+I tried to do them but I couldn't open ipython3 notebook for some reasons...
